@@ -14,4 +14,4 @@
 - DELETE /users/{userId} - delete a user from the contest
 
 ## Postman Collection
-- [Download Postman Collection](/CoderHack_Leaderboard.postman_collection.json)
+- [Download Postman Collection](/postmancollection.json)
